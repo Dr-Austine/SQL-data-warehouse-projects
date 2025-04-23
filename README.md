@@ -31,10 +31,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 --
-## License
+## 🛡️License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## About Me
+## 💥About Me
 
 Hi there! I'm **Austine Njuga**, also known as **"Dr_Austine"**. I'm an spiring data analyst and scientist, I'm deeply passionate about uncovering insights through statistical rigor and building robust data systems. I thrive on the continuous learning inherent in this field and am eager to apply my skills to solve complex problems!
