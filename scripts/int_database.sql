@@ -21,11 +21,9 @@ BEGIN
     ALTER DATABASE DataWarehouse SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
     DROP DATABASE DataWarehouse;
 END;
-GO
 
 -- Create the 'DataWarehouse' database
 CREATE DATABASE DataWarehouse;
-GO
 
 -- Use the newly created 'DataWarehouse' database
 USE DataWarehouse;
@@ -42,7 +40,5 @@ CREATE SCHEMA silver;
 CREATE SCHEMA gold;
 
 
--- Create the 'Datawarehouse' database
-create database DataWarehouse;
-use Datawarehouse;
+
 
